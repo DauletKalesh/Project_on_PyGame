@@ -1,0 +1,10 @@
+        Tap <<W>> or <<Space>> to jump.
+    Tap <<A>> to run left and <<D>> to run right.
+Tap <<,>> to throw shuriken to the right side.
+Tap <<.>> to throw shuriken to the left side.
+
+Short description: 'Naruto's adventure' is a new 
+platformer game from the  E L I T E  studio that 
+tells about the adventures of Naruto. Collect ingots,
+use skins, go through obstacles and reach the level 
+where you will face the main boss. Have a good game!
